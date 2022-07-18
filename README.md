@@ -3,5 +3,4 @@
 ## Prview
 
 ### Wave Animate
-https://user-images.githubusercontent.com/91409719/179493569-9e2c1ed1-d24a-45a5-9fea-134fa7f42e98.mp4
-
+![Document_AdobeExpress](https://user-images.githubusercontent.com/91409719/179495499-78e35ba4-d234-4a04-9a46-0a627302acfb.gif)
